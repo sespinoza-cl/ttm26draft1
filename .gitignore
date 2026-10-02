@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+# local-only (manuscript generation, private-data build, analysis plan)
+build_master.py
+make_numbers.py
+make_supplement.py
+docs/
